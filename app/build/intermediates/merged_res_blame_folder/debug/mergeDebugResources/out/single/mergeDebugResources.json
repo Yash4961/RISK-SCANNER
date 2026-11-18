@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_alert.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_alert.xml"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_scanner.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_scanner.xml"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-hdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_microphone.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_microphone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_guardian.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_guardian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_camera.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-mdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\drawable_ic_shield.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\drawable\\ic_shield.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-debug-64:\\mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Yash rathore\\.gradle\\daemon\\9.4.1\\com.vsecurity.scanner.app-main-66:\\mipmap-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "com.vsecurity.scanner.app-debug-64:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.vsecurity.scanner.app-main-66:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

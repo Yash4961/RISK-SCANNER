@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:tools="http://schemas.android.com/tools">
+    <!-- Exclude sensitive preferences -->
+    <exclude domain="sharedpref" path="guardian_settings.xml"
+        tools:ignore="FullBackupContent" />
+    <!-- Include scan results -->
+    <include domain="database" path="vscanner_database"/>
+</full-backup-content>

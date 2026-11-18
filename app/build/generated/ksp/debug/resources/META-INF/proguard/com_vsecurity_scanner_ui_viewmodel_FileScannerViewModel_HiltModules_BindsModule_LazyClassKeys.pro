@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.vsecurity.scanner.ui.viewmodel.FileScannerViewModel

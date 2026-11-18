@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Security Shield (Risk Defense) -->
+    <path
+        android:fillColor="#FF00E676"
+        android:pathData="M54,22L26,32v18c0,18 11.9,34.8 28,38.9c16.1,-4.1 28,-20.9 28,-38.9V32L54,22z"/>
+
+    <!-- Inner Shield Background -->
+    <path
+        android:fillColor="#FF121212"
+        android:pathData="M54,25.5L29.5,34v16c0,15.5 10.5,30.2 24.5,33.8c14,-3.6 24.5,-18.3 24.5,-33.8V34L54,25.5z"/>
+
+    <!-- Scanner HUD Viewfinder Brackets (Scanner Target Reticle) -->
+    <path
+        android:strokeColor="#FF00E676"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.75"
+        android:pathData="M37,42v-5h5"/>
+    <path
+        android:strokeColor="#FF00E676"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.75"
+        android:pathData="M71,42v-5h-5"/>
+    <path
+        android:strokeColor="#FF00E676"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.75"
+        android:pathData="M37,59v5h5"/>
+    <path
+        android:strokeColor="#FF00E676"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeAlpha="0.75"
+        android:pathData="M71,59v5h-5"/>
+
+    <!-- Horizontal Scanner Laser Beam -->
+    <path
+        android:strokeColor="#FF00E676"
+        android:strokeWidth="1.2"
+        android:strokeAlpha="0.35"
+        android:pathData="M32,53.5h44"/>
+
+    <!-- Stylized "R" for Risk Scanner -->
+    <!-- Pillar -->
+    <path
+        android:fillColor="#FF00E676"
+        android:pathData="M41,40h6.5v27H41z"/>
+    <!-- Upper Loop -->
+    <path
+        android:fillColor="#FF00E676"
+        android:pathData="M47.5,40h11c4.5,0 8,3.2 8,7.5c0,4.3 -3.5,7.5 -8,7.5H47.5z"/>
+    <!-- Loop Inner Cutout -->
+    <path
+        android:fillColor="#FF121212"
+        android:pathData="M47.5,44.5h10c2.2,0 3.8,1.3 3.8,3c0,1.7 -1.6,3 -3.8,3H47.5z"/>
+    <!-- Diagonal Kick Leg -->
+    <path
+        android:fillColor="#FF00E676"
+        android:pathData="M53.5,54.5h6.5l7,12.5h-6.5l-7,-12.5z"/>
+
+</vector>
+
